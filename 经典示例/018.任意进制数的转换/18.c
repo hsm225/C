@@ -22,6 +22,8 @@ int trans(unsigned n, int d, char s[])
 	return j;
 }
 /* 主函数用于测试函数 trans() */
+
+/*asdfklfjasdfjlasdjflaksdjflksdf*/
 main()
 {
 	unsigned int num = 253;
