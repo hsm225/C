@@ -1,5 +1,9 @@
 #include <stdio.h>
 #include <conio.h>
+
+/*
+Ìí¼Ó×¢ÊÍ£¬ÓÃÓÚ²âÊÔgit
+*/
 void main()
 {
 	int Password=0,Number=0,price=58,i=0;
